@@ -1,0 +1,438 @@
+2025-07-13 13:33:00,817 - INFO - ====== WebDriver manager ======
+2025-07-13 13:33:03,473 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:33:03,599 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:33:03,650 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:33:03,807 - INFO - WebDriver version 138.0.7204.94 selected
+2025-07-13 13:33:03,811 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-13 13:33:03,812 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-13 13:33:03,931 - INFO - Driver downloading response is 200
+2025-07-13 13:33:04,868 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:33:05,035 - INFO - Driver has been saved in cache [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94]
+2025-07-13 13:33:05,036 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 13:33:10,566 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 13:33:10,568 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI298642\\../dados\\480971952991607.json'
+2025-07-13 13:33:40,357 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 13:33:40,357 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 13:34:01,898 - INFO - ====== WebDriver manager ======
+2025-07-13 13:34:03,968 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:34:04,040 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:34:04,097 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 13:34:04,098 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 13:34:05,867 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 13:34:05,868 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI47562\\../dados\\480971952991607.json'
+2025-07-13 13:34:42,615 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 13:34:42,615 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 13:55:01,428 - INFO - ====== WebDriver manager ======
+2025-07-13 13:55:03,424 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:55:03,504 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 13:55:03,566 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 13:55:03,567 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 13:55:08,209 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 13:55:08,211 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI400922\\../dados\\480971952991607.json'
+2025-07-13 13:55:44,895 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 13:55:44,896 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:07:02,154 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:04,418 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:07:04,502 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:07:04,557 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:07:04,558 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:07:08,892 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:07:08,894 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI186922\\../dados\\480971952991607.json'
+2025-07-13 14:07:28,066 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:30,244 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:07:30,317 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:07:30,371 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:07:30,372 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:07:33,781 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:07:33,783 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI120962\\../dados\\480971952991607.json'
+2025-07-13 14:07:45,709 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:07:45,709 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:07:54,303 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,388 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,413 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,444 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,457 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,496 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,499 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,499 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,514 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,534 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,566 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,566 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,567 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,578 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,584 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,612 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,632 - INFO - ====== WebDriver manager ======
+2025-07-13 14:07:54,716 - INFO - ====== WebDriver manager ======
+2025-07-13 14:08:04,622 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,645 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,675 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,681 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,780 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,785 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,789 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,801 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:04,804 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:04,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,841 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,855 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:04,861 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:04,866 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:04,867 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:04,879 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,888 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,897 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,925 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,968 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:04,976 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,981 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,986 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:04,998 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,011 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,058 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,131 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,212 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,374 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,400 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,607 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,663 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,665 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,688 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,692 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,693 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,694 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,697 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,697 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,718 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,719 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,797 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,801 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,832 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,846 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,847 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,855 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,923 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,927 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:05,929 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,935 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,937 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,941 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:05,949 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:08:05,994 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:06,011 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:06,020 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:06,023 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:06,023 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:06,039 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:06,039 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:06,039 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:06,083 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:08:06,093 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:08:12,836 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:08:12,846 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:08:18,438 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:08:18,447 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:08:18,444 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:08:18,454 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:08:18,775 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI48202\\../dados\\480971952991607.json'
+2025-07-13 14:08:18,785 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI318242\\../dados\\480971952991607.json'
+2025-07-13 14:08:18,785 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI106282\\../dados\\480971952991607.json'
+2025-07-13 14:08:18,786 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI63962\\../dados\\480971952991607.json'
+2025-07-13 14:08:19,898 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:08:20,163 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:08:20,168 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI89042\\../dados\\480971952991607.json'
+2025-07-13 14:08:20,411 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI201282\\../dados\\480971952991607.json'
+2025-07-13 14:08:55,562 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:08:55,934 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:09:01,458 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:09:01,535 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:09:01,746 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:09:03,052 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI154242\\../dados\\480971952991607.json'
+2025-07-13 14:09:03,116 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI338162\\../dados\\480971952991607.json'
+2025-07-13 14:09:03,333 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI95522\\../dados\\480971952991607.json'
+2025-07-13 14:09:04,375 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:09:04,375 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:09:19,397 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:09:20,279 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:09:34,474 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:09:40,014 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:09:34,536 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:09:40,032 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:09:43,854 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:09:49,121 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:09:44,704 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:09:49,198 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:10:00,628 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:10:01,496 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:10:03,679 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:03,741 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:03,782 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:03,724 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:03,895 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:03,908 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:03,894 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:04,342 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:04,142 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:10:09,656 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI402242\\../dados\\480971952991607.json'
+2025-07-13 14:10:09,920 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI389482\\../dados\\480971952991607.json'
+2025-07-13 14:10:10,058 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI42362\\../dados\\480971952991607.json'
+2025-07-13 14:10:10,263 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI317802\\../dados\\480971952991607.json'
+2025-07-13 14:10:10,263 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI318962\\../dados\\480971952991607.json'
+2025-07-13 14:10:10,413 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI390842\\../dados\\480971952991607.json'
+2025-07-13 14:10:10,414 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI182482\\../dados\\480971952991607.json'
+2025-07-13 14:10:10,413 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI158402\\../dados\\480971952991607.json'
+2025-07-13 14:10:10,415 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI195242\\../dados\\480971952991607.json'
+2025-07-13 14:10:14,176 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:10:15,041 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:10:47,450 - INFO - ====== WebDriver manager ======
+2025-07-13 14:10:48,357 - INFO - ====== WebDriver manager ======
+2025-07-13 14:12:46,025 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:12:46,075 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:12:46,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:12:46,460 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:12:46,500 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:12:46,502 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:12:46,533 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:12:46,535 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:12:55,406 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:12:55,407 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:12:55,409 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI479242\\../dados\\480971952991607.json'
+2025-07-13 14:12:55,411 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI335962\\../dados\\480971952991607.json'
+2025-07-13 14:13:32,277 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:13:32,277 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:13:32,322 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:13:32,323 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:14:16,403 - INFO - ====== WebDriver manager ======
+2025-07-13 14:14:19,506 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:14:19,585 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:14:19,636 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:14:19,636 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:14:22,583 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:14:22,586 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI466802\\../dados\\480971952991607.json'
+2025-07-13 14:14:59,613 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:14:59,614 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:13,856 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:13,865 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:14,052 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:14,058 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:14,214 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:14,219 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:14,716 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:14,720 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:14,761 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:14,804 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:15,026 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:15,311 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:15,058 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:15,313 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:15,121 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:15,343 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:15:15,137 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:15:15,390 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:25:02,294 - INFO - ====== WebDriver manager ======
+2025-07-13 14:25:05,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:25:06,078 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:25:06,147 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:25:06,147 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:25:10,667 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:25:10,670 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI484442\\../dados\\480971952991607.json'
+2025-07-13 14:25:47,437 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:25:47,460 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:31:02,054 - INFO - ====== WebDriver manager ======
+2025-07-13 14:31:04,594 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:31:04,698 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:31:04,747 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:31:04,749 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:31:09,622 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:31:09,627 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI163962\\../dados\\480971952991607.json'
+2025-07-13 14:31:46,580 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:31:46,583 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:34:48,386 - INFO - ====== WebDriver manager ======
+2025-07-13 14:34:50,485 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:34:50,546 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:34:50,602 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:34:50,602 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:34:53,607 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:34:53,636 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI402402\\../dados\\480971952991607.json'
+2025-07-13 14:35:10,337 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002564ABE9F90>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4e15b78739411dd9dbf7c45bfcb8b0ed/element
+2025-07-13 14:35:14,408 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002564ABEA710>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4e15b78739411dd9dbf7c45bfcb8b0ed/element
+2025-07-13 14:35:18,472 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002564AB8DCD0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4e15b78739411dd9dbf7c45bfcb8b0ed/element
+2025-07-13 14:35:28,642 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002564ABF1370>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4e15b78739411dd9dbf7c45bfcb8b0ed/element
+2025-07-13 14:35:32,701 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002564ABA6F10>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4e15b78739411dd9dbf7c45bfcb8b0ed/element
+2025-07-13 14:35:36,770 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002564ABA7240>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/4e15b78739411dd9dbf7c45bfcb8b0ed/element
+2025-07-13 14:35:42,829 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:35:42,829 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:37:55,991 - INFO - ====== WebDriver manager ======
+2025-07-13 14:38:00,084 - INFO - ====== WebDriver manager ======
+2025-07-13 14:38:00,340 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:38:00,531 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:38:00,596 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:38:00,597 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:38:01,011 - INFO - ====== WebDriver manager ======
+2025-07-13 14:38:05,956 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:38:07,457 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI91162\\../dados\\480971952991607.json'
+2025-07-13 14:38:23,192 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:38:23,247 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:38:23,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:38:23,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-13 14:38:23,690 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:38:23,690 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:38:23,721 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-13 14:38:23,722 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-13 14:38:31,470 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:38:31,474 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI406402\\../dados\\480971952991607.json'
+2025-07-13 14:38:31,479 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-13 14:38:31,482 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI349562\\../dados\\480971952991607.json'
+2025-07-13 14:38:45,084 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:38:45,089 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:39:08,365 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:39:08,365 - ERROR - Erro ao iniciar o webdriver
+2025-07-13 14:39:08,459 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-13 14:39:08,459 - ERROR - Erro ao iniciar o webdriver
+2025-07-14 11:51:02,457 - INFO - ====== WebDriver manager ======
+2025-07-14 11:51:04,379 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 11:51:04,460 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 11:51:04,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 11:51:04,659 - INFO - WebDriver version 138.0.7204.94 selected
+2025-07-14 11:51:04,664 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-14 11:51:04,665 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-14 11:51:04,792 - INFO - Driver downloading response is 200
+2025-07-14 11:51:05,655 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 11:51:05,812 - INFO - Driver has been saved in cache [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94]
+2025-07-14 11:51:05,814 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-14 11:51:10,830 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 11:51:10,832 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI90162\\../dados\\480971952991607.json'
+2025-07-14 11:51:30,792 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-14 11:51:30,792 - ERROR - Erro ao iniciar o webdriver
+2025-07-14 12:30:02,118 - INFO - ====== WebDriver manager ======
+2025-07-14 12:30:04,118 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:30:04,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:30:04,248 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 12:30:04,249 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-14 12:30:08,823 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 12:30:08,826 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI203202\\../dados\\480971952991607.json'
+2025-07-14 12:30:45,703 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-14 12:30:45,706 - ERROR - Erro ao iniciar o webdriver
+2025-07-14 12:34:02,325 - INFO - ====== WebDriver manager ======
+2025-07-14 12:34:04,707 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:34:04,766 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:34:04,833 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 12:34:04,833 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-14 12:34:08,788 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 12:34:08,789 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI147602\\../dados\\480971952991607.json'
+2025-07-14 12:34:45,526 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-14 12:34:45,526 - ERROR - Erro ao iniciar o webdriver
+2025-07-14 12:36:09,914 - INFO - ====== WebDriver manager ======
+2025-07-14 12:36:11,883 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:36:11,968 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:36:12,029 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 12:36:12,029 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-14 12:36:13,694 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 12:36:13,695 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI220842\\../dados\\480971952991607.json'
+2025-07-14 12:36:23,479 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-14 12:36:23,480 - ERROR - Erro ao iniciar o webdriver
+2025-07-14 12:41:01,334 - INFO - ====== WebDriver manager ======
+2025-07-14 12:41:03,258 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:41:03,340 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 12:41:03,397 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 12:41:03,397 - INFO - Driver instalado em C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe
+2025-07-14 12:41:04,675 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 12:41:04,677 - ERROR - bom, parece que deu algum erro tentava mexer com o json 
+[Errno 2] No such file or directory: 'C:\\Users\\ERRO\\AppData\\Local\\Temp\\_MEI92202\\../dados\\480971952991607.json'
+2025-07-14 12:41:30,536 - ERROR - puuutz viado não achei o elemento :(//a[@data-test-id='home-hero-sign-in-cta']
+2025-07-14 12:41:30,536 - ERROR - Erro ao iniciar o webdriver
+2025-07-14 13:06:52,391 - INFO - ====== WebDriver manager ======
+2025-07-14 13:06:54,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:06:54,440 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:06:54,500 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 13:06:58,038 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 13:06:58,039 - ERROR - Falha ao abrir JSON ou navegar: [Errno 2] No such file or directory: '178561226962073.json'
+2025-07-14 13:08:03,344 - INFO - ====== WebDriver manager ======
+2025-07-14 13:08:07,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:08:07,247 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:08:07,322 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 13:08:14,215 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 13:08:14,219 - INFO - JSON lido com sucesso
+2025-07-14 13:08:55,540 - INFO - Publicação enviada com sucesso!
+2025-07-14 13:08:55,658 - INFO - Tarefa removida do sistema
+2025-07-14 13:41:01,827 - INFO - ====== WebDriver manager ======
+2025-07-14 13:41:03,905 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:41:03,988 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:41:04,048 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 13:41:09,154 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 13:41:09,156 - INFO - JSON lido com sucesso
+2025-07-14 13:41:50,539 - INFO - Publicação enviada com sucesso!
+2025-07-14 13:41:50,674 - INFO - Tarefa removida do sistema
+2025-07-14 13:53:02,130 - INFO - ====== WebDriver manager ======
+2025-07-14 13:53:04,030 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:53:04,119 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:53:04,172 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 13:53:09,678 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 13:53:09,679 - INFO - JSON lido com sucesso
+2025-07-14 13:54:02,873 - ERROR - Elemento não encontrado: //button[@id='ember35' or @class='artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view cTGyaJnGoWfkJLPQELApNvsznXilrNuiMhUpR' or @id='ember34']
+2025-07-14 13:54:02,880 - ERROR - Erro no fluxo Selenium: No active exception to reraise
+2025-07-14 13:58:02,057 - INFO - ====== WebDriver manager ======
+2025-07-14 13:58:03,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:58:03,927 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 13:58:03,978 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 13:58:08,783 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 13:58:08,784 - INFO - JSON lido com sucesso
+2025-07-14 13:58:46,510 - INFO - Publicação enviada com sucesso!
+2025-07-14 14:00:02,064 - INFO - ====== WebDriver manager ======
+2025-07-14 14:00:03,986 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 14:00:04,062 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 14:00:04,223 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 14:00:08,285 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 14:00:08,345 - INFO - JSON lido com sucesso
+2025-07-14 14:00:42,781 - ERROR - Erro no fluxo Selenium: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-07-14 15:42:02,125 - INFO - ====== WebDriver manager ======
+2025-07-14 15:42:04,349 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 15:42:04,432 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-14 15:42:04,504 - INFO - Driver [C:\Users\ERRO\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-14 15:42:09,298 - INFO - ChromeDriver iniciado com sucesso via webdriver_manager!
+2025-07-14 15:42:09,305 - INFO - JSON lido com sucesso
+2025-07-14 15:42:54,177 - INFO - Publicação enviada com sucesso!

@@ -1,0 +1,51 @@
+2025-07-12 10:56:22,463 - INFO - ae viado consigui ler o arquivo
+2025-07-12 10:56:22,467 - INFO - boa, agora geral ta podendo usar os dados do arquivo krlh
+2025-07-12 10:56:22,587 - INFO - COMANDO: schtasks /Create /SC ONCE /TN "carai" /TR ""C:\Users\ERRO\Documents\RedBrowser\automacao\publica.exe" "C:\Users\ERRO\Documents\RedBrowser\dados\906521871301035.json"" /ST 10:58 /SD 12/07/2025 /RL HIGHEST /RU SYSTEM /F
+2025-07-12 10:56:22,588 - INFO - RETORNO: 0
+2025-07-12 10:56:22,588 - INFO - STDOUT: ÒXITO: a tarefa agendada "carai" foi criada corretamente.
+2025-07-12 10:56:22,588 - INFO - STDERR: 
+2025-07-12 10:56:22,588 - INFO - Ae tarefa caraiagendada irmão..
+2025-07-12 11:00:36,725 - INFO - ae viado consigui ler o arquivo
+2025-07-12 11:00:36,728 - INFO - boa, agora geral ta podendo usar os dados do arquivo krlh
+2025-07-12 11:00:36,846 - INFO - COMANDO: schtasks /Create /SC ONCE /TN "dfdfg" /TR ""C:\Users\ERRO\Documents\RedBrowser\automacao\publica.exe" "C:\Users\ERRO\Documents\RedBrowser\dados\319633510858005.json"" /ST 11:02 /SD 12/07/2025 /RL HIGHEST /RU SYSTEM /F
+2025-07-12 11:00:36,846 - INFO - RETORNO: 0
+2025-07-12 11:00:36,846 - INFO - STDOUT: ÒXITO: a tarefa agendada "dfdfg" foi criada corretamente.
+2025-07-12 11:00:36,847 - INFO - STDERR: 
+2025-07-12 11:00:36,847 - INFO - Ae tarefa dfdfgagendada irmão..
+2025-07-12 11:43:50,558 - INFO - ae viado consigui ler o arquivo
+2025-07-12 11:43:50,561 - INFO - boa, agora geral ta podendo usar os dados do arquivo krlh
+2025-07-12 11:43:50,679 - INFO - COMANDO: schtasks /Create /SC ONCE /TN "teste 1" /TR ""C:\Users\ERRO\Documents\RedBrowser\automacao\publica.exe" "C:\Users\ERRO\Documents\RedBrowser\dados\368286446412803.json"" /ST 11:45 /SD 12/07/2025 /RL HIGHEST /RU SYSTEM /F
+2025-07-12 11:43:50,679 - INFO - RETORNO: 0
+2025-07-12 11:43:50,679 - INFO - STDOUT: ÒXITO: a tarefa agendada "teste 1" foi criada corretamente.
+2025-07-12 11:43:50,679 - INFO - STDERR: 
+2025-07-12 11:43:50,680 - INFO - Ae tarefa teste 1agendada irmão..
+2025-07-12 12:00:15,906 - INFO - ae viado consigui ler o arquivo
+2025-07-12 12:00:15,910 - INFO - boa, agora geral ta podendo usar os dados do arquivo krlh
+2025-07-12 12:00:16,027 - INFO - COMANDO: schtasks /Create /SC ONCE /TN "dfrdf" /TR ""C:\Users\ERRO\Documents\RedBrowser\automacao\publica.exe" "C:\Users\ERRO\Documents\RedBrowser\dados\260447679242100.json"" /ST 12:02 /SD 12/07/2025 /RL HIGHEST /RU SYSTEM /F
+2025-07-12 12:00:16,027 - INFO - RETORNO: 0
+2025-07-12 12:00:16,027 - INFO - STDOUT: ÒXITO: a tarefa agendada "dfrdf" foi criada corretamente.
+2025-07-12 12:00:16,027 - INFO - STDERR: 
+2025-07-12 12:00:16,027 - INFO - Ae tarefa dfrdfagendada irmão..
+2025-07-12 20:10:13,436 - ERROR - Agendador fdp deu erro carai... 
+ expected str, bytes or os.PathLike object, not NoneType
+2025-07-12 20:16:12,024 - INFO - ae viado consigui ler o arquivo
+2025-07-12 20:16:12,028 - INFO - boa, agora geral ta podendo usar os dados do arquivo krlh
+2025-07-12 20:16:12,138 - INFO - COMANDO: schtasks /Create /SC ONCE /TN "fgfd" /TR ""C:\Users\ERRO\Documents\RedBrowser\automacao\publica.exe" "C:\Users\ERRO\Documents\RedBrowser\dados\452695957321647.json"" /ST 20:17 /SD 12/07/2025 /RL HIGHEST /RU SYSTEM /F
+2025-07-12 20:16:12,138 - INFO - RETORNO: 0
+2025-07-12 20:16:12,138 - INFO - STDOUT: ÒXITO: a tarefa agendada "fgfd" foi criada corretamente.
+2025-07-12 20:16:12,138 - INFO - STDERR: 
+2025-07-12 20:16:12,138 - INFO - Ae tarefa fgfdagendada irmão..
+2025-07-12 20:45:21,474 - INFO - ae viado consigui ler o arquivo
+2025-07-12 20:45:21,477 - INFO - boa, agora geral ta podendo usar os dados do arquivo krlh
+2025-07-12 20:45:21,605 - INFO - COMANDO: schtasks /Create /SC ONCE /TN "dfdfs" /TR ""C:\Users\ERRO\Documents\RedBrowser\automacao\publica.exe" "C:\Users\ERRO\Documents\RedBrowser\dados\994674229485301.json"" /ST 20:47 /SD 12/07/2025 /RL HIGHEST /RU SYSTEM /F
+2025-07-12 20:45:21,605 - INFO - RETORNO: 0
+2025-07-12 20:45:21,605 - INFO - STDOUT: ÒXITO: a tarefa agendada "dfdfs" foi criada corretamente.
+2025-07-12 20:45:21,605 - INFO - STDERR: 
+2025-07-12 20:45:21,605 - INFO - Ae tarefa dfdfsagendada irmão..
+2025-07-12 21:01:30,444 - INFO - ae viado consigui ler o arquivo
+2025-07-12 21:01:30,447 - INFO - boa, agora geral ta podendo usar os dados do arquivo krlh
+2025-07-12 21:01:30,580 - INFO - COMANDO: schtasks /Create /SC ONCE /TN "dfdfs" /TR ""C:\Users\ERRO\Documents\RedBrowser\automacao\publica.exe" "C:\Users\ERRO\Documents\RedBrowser\dados\994674229485301.json"" /ST 21:03 /SD 12/07/2025 /RL HIGHEST /RU SYSTEM /F
+2025-07-12 21:01:30,580 - INFO - RETORNO: 0
+2025-07-12 21:01:30,580 - INFO - STDOUT: ÒXITO: a tarefa agendada "dfdfs" foi criada corretamente.
+2025-07-12 21:01:30,580 - INFO - STDERR: 
+2025-07-12 21:01:30,580 - INFO - Ae tarefa dfdfsagendada irmão..
