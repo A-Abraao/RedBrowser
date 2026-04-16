@@ -1,6 +1,6 @@
 #Sobre o RedBrowser
 
-O **RedBrowser** é um software que roda no Windows e serve para **agendar a execução de publicações em redes sociais ou **realizar alguma tarefa via web**
+O **RedBrowser** é um software que roda no Windows e serve para **agendar a execução de publicações em redes sociais** ou **realizar alguma tarefa via web**
 
 A tarefa é agendada por uma interface criada com **JavaScript** e que roda no Windows graças o framework **Electron**. O usuário digita o titulo da tarefa e oque o Software deve fazer. As tarefas podem ser executadas na hora, ou então **serem agendadas em um dia e horário especifico**.
 
