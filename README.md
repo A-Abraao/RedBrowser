@@ -1,4 +1,4 @@
-#Sobre o RedBrowser
+#Sobre o RedBrowser#
 
 O **RedBrowser** é um software que roda no Windows e serve para **agendar a execução de publicações em redes sociais** ou **realizar alguma tarefa via web**
 
